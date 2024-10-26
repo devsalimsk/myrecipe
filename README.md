@@ -1,1 +1,1 @@
-# myrecipe
+https://devsalimsk.github.io/myrecipe/
